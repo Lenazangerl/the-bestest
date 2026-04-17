@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 dcsdcs
 MErhbabaaa
 RUMEYAAAAAA 
 hallo
-=======
 dcsdc
 andji
 andjela
 hallo
->>>>>>> 28ee5dfce061b10857213287deb8400308b70490
